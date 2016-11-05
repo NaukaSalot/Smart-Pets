@@ -1,0 +1,2 @@
+# Smart-Pets
+Developed a database for an Iot based project on Smart Pets. Smart Pets is an application that lets you manage your pet in all possible ways. Right from the food to the vital signs, everything can be managed by this smart collar device.  It was developed in MySQL workbench to design and implement 3 NF relational database, Triggers, Stored Procedures, Views, User Privilege and Transactions. Tableau was used for the Business Intelligence part.
